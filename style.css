@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.list{
+    display: flex;
+    list-style: none;
+
+}
+.list>li{
+    margin: 10px;
+}
+.list>li:hover{
+    background-color: rgb(190, 183, 183);
+    border-radius:20px ;
+    padding:5px 10px;
+}
+.head{
+    color: rgb(228, 179, 19);
+}
+.more{
+    border: 1px solid black;
+    padding: 10px 10px;
+    background-color: rgb(238, 106, 58);
+}
+.more:hover{
+    scale: 1;
+    padding: 15px;
+    background-color: rgb(244, 205, 106);
+    
+    color: rgb(243, 111, 111);
+    border:20px ;
+
+}
