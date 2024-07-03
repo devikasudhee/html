@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: white;
+    color: black;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.left{
+    color: black;
+    display: flex;
+    list-style: none;
+    text-align: center;
+    justify-content: space-between;
+    padding: ;
+}
+.iii{
+    display: flex;
+    /* margin: 30px; */
+    justify-content: space-between;
+}
+.iii li{
+    display: flex;
+    list-style: none;
+    margin: 20px;
+}
